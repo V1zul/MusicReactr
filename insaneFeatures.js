@@ -1,5 +1,3 @@
-// INSANE FEATURES - Next Level Visualizations!
-
 // Fractal Storm Visualization
 let fractalZoom = 1;
 let fractalOffsetX = 0;
